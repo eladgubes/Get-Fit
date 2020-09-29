@@ -1,0 +1,24 @@
+.train-app {
+
+    height: 100%;
+
+    // .main-container {
+    //     margin-top: 15px;
+    //     height: 100%;
+    // }
+
+    // .list-container {
+    //     width: 40%;
+    // }
+
+    // .info-container {
+    //     width: 55%;
+    // }
+
+    .workout-container{
+        margin-top: 30px;
+        grid-template-columns: auto auto auto;
+        column-gap: 80px;
+        row-gap: 60px;
+    }
+}

@@ -1,0 +1,17 @@
+
+// BASE
+@import './basic/basic.scss';
+@import './basic/helpers.scss';
+
+// PAGES
+@import './pages/home.scss';
+@import './pages/train-app.scss';
+
+
+// COMPONENTS
+@import './components/header.scss';
+@import './components/footer.scss';
+@import './components/category.scss';
+@import './components/category-info.scss';
+@import './components/category-head.scss';
+@import './components/workout-prev.scss';

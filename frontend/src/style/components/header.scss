@@ -1,0 +1,23 @@
+.header {
+    // background-color: transparent;
+    height: 65px;
+    color: white;
+    font-size: 20px;
+    background-color: #04021D;
+
+    .main-content {
+        width: 100%;
+        z-index: 5;
+    }
+
+    li {
+        width: 120px;
+        font-size: larger;
+    }
+    .logo {
+        font-size: 25px;
+        img {
+            width: 40px;
+        }
+    }
+}
